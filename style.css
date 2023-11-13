@@ -7,7 +7,8 @@ body {
     text-align: center;
 }
 img{
-    border-radius: 50px 50px 50px 50px;
+    width: 50%;
+    border-radius: 20px 0px 20px 0px;
     position: center;
 }
 
@@ -80,7 +81,7 @@ h3 {
 
 #publicar {
     background-color: rgb(41, 41, 41);
-    color: #fff;
+    color: #ffff;
     border: none;
     border-radius: 5px;
     padding: 10px 20px;
