@@ -6,11 +6,12 @@ body {
     color: #333;
     text-align: center;
 }
-h2{
+h2 {
     color: red;
-    font-family: italic;
+    text-align: center;
+    
 }
-img{
+img {
     width: 50%;
     border-radius: 20px 0px 20px 0px;
     position: center;
@@ -164,7 +165,7 @@ input[type="email"],
 input[type="url"],
 input[type="file"],
 textarea {
-    width: 100%;
+    width: 50%;
     padding: 10px;
     margin: 5px 0;
     border: 1px solid #ccc;
